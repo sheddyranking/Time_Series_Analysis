@@ -5,3 +5,6 @@ This is a Time Series Analysis Project involving ( Stock Market Case-Study)
 
 The Stocks to be Analysed are `AAPL`,`GOOG`,`MSFT` and `AMZN`. 
 Covert the `date` column to `datetime` before ploting, it's a object initially
+
+###  Problem Statment => Analyse the Total Volume of Stock being Traded each day.
+
