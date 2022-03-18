@@ -27,8 +27,8 @@ Covert the `date` column to `datetime` before ploting, it's a object initially
  `1day % return`  = `((df['close']-df['open'])/df['close'])*100` 
  
  
- ###  Problem Statment => Analysing  Monthly mean close feature.
+ ###  Problem Statment => Analysing  Monthly/Yearly mean close feature.
  
- `Choose a date range`, and `Resample` the data. according to the month `(M)`. 
+`Choose a date range`, `Resample` the data according to the month `(M)` or Year `(Y)`. 
 
 
