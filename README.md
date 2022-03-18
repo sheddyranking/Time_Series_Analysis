@@ -25,4 +25,10 @@ Covert the `date` column to `datetime` before ploting, it's a object initially
  To archieve the daily price change create a column containing the change in  `df['close']` and `df['open']`. 
  
  `1day % return`  = `((df['close']-df['open'])/df['close'])*100` 
+ 
+ 
+ ###  Problem Statment => Analysing  Monthly mean close feature.
+ 
+ Resample the data.
+
 
