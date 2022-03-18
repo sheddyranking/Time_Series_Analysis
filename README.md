@@ -29,6 +29,6 @@ Covert the `date` column to `datetime` before ploting, it's a object initially
  
  ###  Problem Statment => Analysing  Monthly mean close feature.
  
- Resample the data.
+ `Choose a date range`, and `Resample` the data. according to the month `(M)`. 
 
 
