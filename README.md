@@ -22,6 +22,7 @@ Covert the `date` column to `datetime` before ploting, it's a object initially
 
 ###  Problem Statment => Analysing  the daily price change.
 
- To archieve the daily price change create a column containing the change in  `[close]` and `[open]`. 
+ To archieve the daily price change create a column containing the change in  `df['close']` and `df['open']`. 
  
+ `1day % return`  = `((df['close']-df['open'])/df['close'])*100` 
 
