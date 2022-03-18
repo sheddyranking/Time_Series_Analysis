@@ -20,3 +20,8 @@ Covert the `date` column to `datetime` before ploting, it's a object initially
 ![MSFT](https://user-images.githubusercontent.com/42388234/158672837-f08d401a-1743-4fa8-a64f-7b170aebaf70.png)
 
 
+###  Problem Statment => Analysing  the daily price change.
+
+ To archieve the daily price change create a column containing the change in  `[close]` and `[open]`. 
+ 
+
