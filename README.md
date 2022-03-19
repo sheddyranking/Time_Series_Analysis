@@ -35,7 +35,8 @@ Covert the `date` column to `datetime` before ploting, it's a object initially
 `Choose a date range`, `Resample` the data according to the month `(M)` or Year `(Y)`. 
 
 #### Resamppled Monthly mean close features
-![mean_close_feature](https://user-images.githubusercontent.com/42388234/159098518-c5fcb728-42ef-4758-825d-6782d8cd23fc.png)
+![mean_close_month_f](https://user-images.githubusercontent.com/42388234/159098726-d5dc38e3-cfc1-44d2-9453-b486309173e3.png)
+
 
 
 #### Resamppled Year mean close features
