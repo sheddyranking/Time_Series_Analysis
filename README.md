@@ -37,7 +37,7 @@ Create a new `df` to contiain informations of `[close]` columns from `Amzn,Goog,
 
 ###  Problem Statment => Analyse Daily Return of each Stock and how they are correlated.
 
-stocks to be analysed are `Amzn,Goog,Msft` and `Appl` create a new `df` and store changes in daily return in % in the new `df`.
+Stocks to be analysed are `Amzn,Goog,Msft` and `Appl` create a new `df` and store changes in daily return in % in the new `df`.
 
 
 
