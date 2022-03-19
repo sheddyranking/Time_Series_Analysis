@@ -42,7 +42,7 @@ Stocks to be analysed are `Amzn,Goog,Msft` and `Appl` create a new `df` and stor
 
 ### Problem Statment => Value at Risk Analysis for Tech Companies.
 
-use `displot` from `seaborn` to visualized the change in `percentage daily return` of each stock and use `std` to analyse the `value Risk` on the stocks. Also you can use `quantile()` to discover the minimum daily return.
+use `displot` from `seaborn` to visualized the change in `percentage daily return` of each stock and use `std` to analyse the `value Risk` on the stocks. Also you can use `quantile()` on the percentage daily return to discover the minimum daily return.
 
 
 
