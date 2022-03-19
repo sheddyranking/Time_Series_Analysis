@@ -26,9 +26,21 @@ Covert the `date` column to `datetime` before ploting, it's a object initially
  
  `1day % return`  = `((df['close']-df['open'])/df['close'])*100` 
  
+ #### 1day % return
+ ![1day % return plot](https://user-images.githubusercontent.com/42388234/159098458-17e0ade2-7b25-460b-b5ac-1f770f8430f0.png)
+
  
  ###  Problem Statment => Analysing  Monthly/Yearly mean close feature.
  
 `Choose a date range`, `Resample` the data according to the month `(M)` or Year `(Y)`. 
+
+#### Resamppled Monthly mean close features
+![mean_close_feature](https://user-images.githubusercontent.com/42388234/159098518-c5fcb728-42ef-4758-825d-6782d8cd23fc.png)
+
+
+#### Resamppled Year mean close features
+![mean_close_year_f](https://user-images.githubusercontent.com/42388234/159098549-2d069df2-9750-490e-b034-b2bb3777eb64.png)
+
+
 
 
