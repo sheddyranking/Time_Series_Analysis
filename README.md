@@ -33,7 +33,7 @@ Covert the `date` column to `datetime` before ploting, it's a object initially
 
 ###  Problem Statment => Analyse Whether Stock Prices of these Tech companies (Amazon,Google,Microsolft,Apple) are correlated or not.
 
-Create a new `df` to contiain informations of `[close]` columns from `Amazon,Google,Microsolft,Apple` Dataframe. 
+Create a new `df` to contiain informations of `[close]` columns from `Amzn,Goog,Msft,Appl` Dataframe. 
 
 
 
