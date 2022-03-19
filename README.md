@@ -40,6 +40,10 @@ Create a new `df` to contiain informations of `[close]` columns from `Amzn,Goog,
 Stocks to be analysed are `Amzn,Goog,Msft` and `Appl` create a new `df` and store changes in % daily return in the new `df`.
 
 
+### Problem Statment => Value at Risk Analysis for Tech Companies.
+
+use `displot` from `seaborn` to visualized the change in `percentage daily return` of each stock and use `std` to analyse the `value Risk` on the stocks.
+
 
 
 
