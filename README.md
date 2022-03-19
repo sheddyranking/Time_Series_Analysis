@@ -29,6 +29,6 @@ Covert the `date` column to `datetime` before ploting, it's a object initially
  
  ###  Problem Statment => Analysing  Monthly/Yearly mean close feature.
  
-`Choose a date range`, `Resample` the data according to the month `(M)` or Year `(Y)`. 
+`Choose a date range`, set_index of any `key` your using before `Resampling` the data according to the month `(M)` or Year `(Y)`. 
 
 
