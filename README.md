@@ -66,7 +66,7 @@ Stocks to be analysed are `Amzn,Goog,Msft` and `Appl` create a new `df` and stor
 
 use `displot` from `seaborn` to visualized the change in `percentage daily return` of each stock and use `std` to analyse the `value Risk` on the stocks. Also you can use `quantile()` on the percentage daily return to discover the minimum daily return.
 
-#### displot visualized the changes percentage daily return of appl.
+#### displot visualized changes percentage daily return of appl.
 ![appl_change_value_risk](https://user-images.githubusercontent.com/42388234/159132679-8feea396-390e-4c2b-88ac-7a0ca15df5fd.png)
 
 #### std Value Risk Analysis sample
