@@ -26,6 +26,9 @@ Covert the `date` column to `datetime` before ploting, it's a object initially
  
  `1day % return`  = `((df['close']-df['open'])/df['close'])*100` 
  
+ #### 1day % return
+ ![1day % return plot](https://user-images.githubusercontent.com/42388234/159098458-17e0ade2-7b25-460b-b5ac-1f770f8430f0.png)
+
  
 ###  Problem Statment => Analysing  Monthly/Yearly mean close feature.
  
@@ -44,6 +47,16 @@ Stocks to be analysed are `Amzn,Goog,Msft` and `Appl` create a new `df` and stor
 
 use `displot` from `seaborn` to visualized the change in `percentage daily return` of each stock and use `std` to analyse the `value Risk` on the stocks. Also you can use `quantile()` on the percentage daily return to discover the minimum daily return.
 
+
+
+
+#### Resamppled Monthly mean close features
+![mean_close_month_f](https://user-images.githubusercontent.com/42388234/159098726-d5dc38e3-cfc1-44d2-9453-b486309173e3.png)
+
+
+
+#### Resamppled Year mean close features
+![mean_close_year_f](https://user-images.githubusercontent.com/42388234/159098549-2d069df2-9750-490e-b034-b2bb3777eb64.png)
 
 
 
